@@ -21,4 +21,16 @@ A collection of solutions to various Codewars problems! - Created using [CodeHub
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/eshwar-chandra/leetcode/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/eshwar-chandra/leetcode/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/eshwar-chandra/leetcode/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/eshwar-chandra/leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
