@@ -33,4 +33,5 @@ A collection of solutions to various Codewars problems! - Created using [CodeHub
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/eshwar-chandra/leetcode/tree/master/0012-integer-to-roman) |
+| [0058-length-of-last-word](https://github.com/eshwar-chandra/leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
