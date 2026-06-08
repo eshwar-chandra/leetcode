@@ -5,11 +5,13 @@ A collection of solutions to various Codewars problems! - Created using [CodeHub
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/eshwar-chandra/leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/eshwar-chandra/leetcode/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/eshwar-chandra/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/eshwar-chandra/leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/eshwar-chandra/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/eshwar-chandra/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/eshwar-chandra/leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -48,6 +50,7 @@ A collection of solutions to various Codewars problems! - Created using [CodeHub
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/eshwar-chandra/leetcode/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/eshwar-chandra/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
