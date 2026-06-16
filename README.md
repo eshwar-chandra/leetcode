@@ -4,12 +4,14 @@ A collection of solutions to various Codewars problems! - Created using [CodeHub
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/eshwar-chandra/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/eshwar-chandra/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/eshwar-chandra/leetcode/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/eshwar-chandra/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/eshwar-chandra/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/eshwar-chandra/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/eshwar-chandra/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/eshwar-chandra/leetcode/tree/master/0151-reverse-words-in-a-string) |
