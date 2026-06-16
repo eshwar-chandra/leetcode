@@ -14,6 +14,7 @@ A collection of solutions to various Codewars problems! - Created using [CodeHub
 | [0088-merge-sorted-array](https://github.com/eshwar-chandra/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/eshwar-chandra/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/eshwar-chandra/leetcode/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/eshwar-chandra/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of solutions to various Codewars problems! - Created using [CodeHub
 | [0058-length-of-last-word](https://github.com/eshwar-chandra/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/eshwar-chandra/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/eshwar-chandra/leetcode/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/eshwar-chandra/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
